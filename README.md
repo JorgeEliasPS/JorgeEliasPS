@@ -1,5 +1,5 @@
 # 💫Olá, sou Jorge Elias!
-🔭Estudo Front End!<br>⏳A procura de um estágio<br>💻Sempre em busca de novos desafios para expandir meus conhecimentos.<br>🤝Comprometido em contribuir para futuros projetos incríveis e colaborar com outros desenvolvedores.
+🔭Futuro Dev Front End!<br>⏳A procura de um estágio<br>💻Sempre em busca de novos desafios para expandir meus conhecimentos.<br>🤝Comprometido em contribuir para futuros projetos incríveis e colaborar com outros desenvolvedores.
 
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=JorgeEliasPS&theme=radical&hide_border=false&include_all_commits=false&count_private=false) <!--<br/>-->
