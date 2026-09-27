@@ -1,10 +1,12 @@
-# 💫Olá, sou Jorge Elias!
-🔭Futuro Dev Front End!<br>⏳A procura de um estágio<br>💻Sempre em busca de novos desafios para expandir meus conhecimentos.<br>🤝Comprometido em contribuir para futuros projetos incríveis e colaborar com outros desenvolvedores.
+# 👋 Hi, I'm Jorge Sanches!
+💻 Developer in training, focused on Python and software development.<br><br>🔎 Currently looking for an internship opportunity in tech.<br>🐍 Building projects and continuously improving my programming skills.<br>🚀 Always looking for new challenges and opportunities to learn and grow.
 
 # 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=JorgeEliasPS&theme=radical&hide_border=false&include_all_commits=false&count_private=false) <!--<br/>-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEliasPS&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JorgeEliasPS&theme=radical)
 
+![](https://github-readme-stats.vercel.app/api?username=JorgeEliasPS&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEliasPS&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # 💻 Habilidades:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
